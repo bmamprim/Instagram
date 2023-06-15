@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="termos1">As pessoas que usam nosso serviço podem ter enviado suaas informações de contato para o Instagram. <a href="https://help.instagram.com/581066165581870">Saiba mais.</a></string>
+    <string name="termos2">Ao tocar em Concordo, você concorda em criar uma conta e com os <a href="https://help.instagram.com/581066165581870">Termos</a>, a <a href="https://privacycenter.instagram.com/policy">Política de Privacidade</a> e a <a href="https://help.instagram.com/1896641480634370/?helpref=hc_fnav">Política de Cookies do Intagram</a></string>
+    <string name="termos3">A <a href="https://privacycenter.instagram.com/policy">Política de Privacidade</a> descreve como podemos usar as informações que coletamos quando você cria uma conta. Por exemplo, usamos essas informações para fornecer e melhorar nossos produtos, incluindo anúncios.</string>
+
+</resources>
